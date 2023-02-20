@@ -4,3 +4,7 @@ Dart-chap2-part2  rules of declaration
 
 Dart-chap2-part2 arthematice operators: + , - , *, /
 ![image](https://user-images.githubusercontent.com/53869097/220058780-ff071e3c-57eb-42d0-8893-e3723fe6f75d.png)
+
+ // double variable concept to show in decimal value
+![image](https://user-images.githubusercontent.com/53869097/220059656-92b88032-c940-47b6-9ab3-a6317667ae11.png)
+
