@@ -10,3 +10,6 @@ Dart-chap2-part2 arthematice operators: + , - , *, /
 
 Swap values of two variables:
 ![image](https://user-images.githubusercontent.com/53869097/220096570-f9884493-55ae-4db6-9f08-aa3214147d5b.png)
+
+Swap values of two variables in X and Y prints:
+![image](https://user-images.githubusercontent.com/53869097/220316135-37c87509-2c15-4a9c-9551-6e7d06aae40f.png)
