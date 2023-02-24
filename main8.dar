@@ -1,0 +1,19 @@
+void main() {
+  int x;
+  x = 10;
+  int y;
+  y = 20;
+  
+  print('before swaping');
+  print('value of x: $x');
+  print('value of y: $y');
+  
+  x = x + y; // 10+20 = 30;
+  y = x - y; // 10-20 = 10;
+  x = x - y; // 30-10 = 20;
+  
+  print('after swaping');
+  print('value of x: $x');
+  print('value of y: $y');
+ 
+}
