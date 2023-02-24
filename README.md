@@ -13,3 +13,6 @@ Swap values of two variables:
 
 Swap values of two variables in X and Y prints:
 ![image](https://user-images.githubusercontent.com/53869097/220316135-37c87509-2c15-4a9c-9551-6e7d06aae40f.png)
+
+Swap value of two variable adding both variable digits prints:
+![image](https://user-images.githubusercontent.com/53869097/221191745-69c6cac1-cd09-45a6-a325-060c1821292a.png)
