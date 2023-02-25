@@ -19,3 +19,6 @@ Swap value of two variable adding both variable digits prints:
 
 Swap value of two variable +, -, --
 ![image](https://user-images.githubusercontent.com/53869097/221209691-33ce4ff4-b64c-4802-8f5f-0ed95ebff584.png)
+
+Write Program to convert feet to metres and metres into KM.
+![image](https://user-images.githubusercontent.com/53869097/221352425-02a9e190-a974-4ab2-ba1b-0ea19982b788.png)
