@@ -22,3 +22,6 @@ Swap value of two variable +, -, --
 
 Write Program to convert feet to metres and metres into KM.
 ![image](https://user-images.githubusercontent.com/53869097/221352425-02a9e190-a974-4ab2-ba1b-0ea19982b788.png)
+
+What is const keyword ?
+![image](https://user-images.githubusercontent.com/53869097/221592312-f5b0574c-fd13-4669-b75d-ac785a6bb525.png)
